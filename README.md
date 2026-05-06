@@ -96,7 +96,7 @@ Requisitos:
 ## ▶️ Uso
 
 ```bash
-python3 wordlist_generator.py
+python3 SWG.py 
 ```
 
 El programa te pedirá datos opcionales. Puedes omitir cualquiera presionando `Enter`.
