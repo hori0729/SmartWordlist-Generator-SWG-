@@ -167,13 +167,7 @@ El autor no se responsabiliza del mal uso.
 
 * Exportación en múltiples formatos
 * Integración con herramientas como Hashcat
-
-
----
-
-## 🤝 Contribuciones
-
-Pull requests y mejoras son bienvenidas.
+* creacion de nombre txt personalizado
 
 
 
